@@ -1,0 +1,5 @@
+{% load i18n %}
+
+{% trans 'To change the mail, please follow the link:' %}
+
+{{ uri }}

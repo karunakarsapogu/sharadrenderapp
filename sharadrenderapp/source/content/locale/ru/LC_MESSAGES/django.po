@@ -1,0 +1,245 @@
+msgid ""
+msgstr ""
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-19 22:35+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Password"
+msgstr "Пароль"
+
+msgid "Remember me"
+msgstr "Запомнить меня"
+
+msgid "Email"
+msgstr "Почта"
+
+msgid ""
+"Please enter a correct email and password. Note that both fields may be case-"
+"sensitive."
+msgstr ""
+"Пожалуйста, введите корректно почту и пароль. Имейте в виду, что оба поля "
+"могут быть чувствительны к регистру."
+
+msgid "This account is inactive."
+msgstr "Эта учётная запись не активна."
+
+msgid "Email or Username"
+msgstr "Почта или имя пользователя"
+
+msgid ""
+"Please enter a correct email or username and password. Note that both fields "
+"may be case-sensitive."
+msgstr ""
+"Пожалуйста, введите корректно почту или имя пользователя и пароль. Имейте в "
+"виду, что оба поля могут быть чувствительны к регистру."
+
+msgid "First Name"
+msgstr "Имя"
+
+msgid "Optional."
+msgstr "Не обязательно."
+
+msgid "Last Name"
+msgstr "Фамилия"
+
+msgid "Required. Type a valid email address."
+msgstr "Обязательно. Введите правильную электронную почту."
+
+msgid "You can not use this email address."
+msgstr "Вы не можете использовать эту электронную почту."
+
+msgid ""
+"Activation code has already been sent. You can request a new code in 24 "
+"hours."
+msgstr ""
+"Код активации уже был отправлен. Вы можете запросить новый код через 24 часа."
+
+msgid "You entered incorrect data."
+msgstr "Вы ввели некорректные данные."
+
+msgid "This account has already been activated."
+msgstr "Эта учётная запись уже активирована."
+
+msgid "You can not use this mail."
+msgstr "Вы не можете использовать эту почту."
+
+msgid "Please enter another email."
+msgstr "Пожалуйста, введите другую почту."
+
+msgid "Change password"
+msgstr "Изменить пароль"
+
+msgid "Change"
+msgstr "Изменить"
+
+msgid "Your password was changed."
+msgstr "Ваш пароль изменен."
+
+msgid "To activate your profile, please follow this link:"
+msgstr "Для активации вашего профиля, перейдите по этой ссылке:"
+
+msgid "To change the mail, please follow the link:"
+msgstr "Для изменения почты, перейдите по этой ссылке:"
+
+msgid "Your username is:"
+msgstr "Ваше имя пользователя:"
+
+msgid ""
+"You received this email because you requested a password reset for your user "
+"account."
+msgstr ""
+"Вы получили это электронное письмо, потому что вы запросили сброс пароля для "
+"своей учетной записи пользователя."
+
+msgid "Please, go to the following page and choose a new password:"
+msgstr "Пожалуйста, перейдите на указанную страницу и выберите новый пароль:"
+
+msgid "Log in"
+msgstr "Вход"
+
+msgid "Forgot your password?"
+msgstr "Забыли пароль?"
+
+msgid "Forgot your username?"
+msgstr "Забыли имя пользователя?"
+
+msgid "Resend an activation code"
+msgstr "Повторно отправить код активации"
+
+msgid "Logged out"
+msgstr "Выход"
+
+msgid "Thanks for spending some quality time with the Web site today."
+msgstr "Спасибо, что выделили время на посещение сайта сегодня."
+
+msgid "Log in again"
+msgstr "Войти повторно"
+
+msgid "Change email"
+msgstr "Изменить почту"
+
+msgid "Change profile"
+msgstr "Изменить профиль"
+
+msgid "Remind a username"
+msgstr "Напомнить имя пользователя"
+
+msgid "Next"
+msgstr "Дальше"
+
+msgid "Restore password"
+msgstr "Восстановить пароль"
+
+msgid "Your password has been set. You may go ahead and log in now."
+msgstr "Ваш пароль изменен. Теперь вы можете войти."
+
+msgid ""
+"Please enter your new password twice so we can verify you typed it in "
+"correctly."
+msgstr ""
+"Пожалуйста, введите новый пароль дважды, так мы сможем проверить, что вы его "
+"вводите корректно."
+
+msgid ""
+"The password reset link was invalid, possibly because it has already been "
+"used. Please request a new password reset."
+msgstr ""
+"Ссылка для изменения пароля невалидна, возможно она была уже использована. "
+"Пожалуйста, сделайте новое восстановление пароля."
+
+msgid ""
+"We've emailed you instructions for setting your password, if an account "
+"exists with the email you entered."
+msgstr ""
+"Мы отправим письмо с инструкциями по изменению вашего пароля, если учетная "
+"запись с такой почтой существует."
+
+msgid "You should receive them shortly."
+msgstr "Вы должны получить его в скором времени."
+
+msgid ""
+"If you don't receive an email, please make sure you've entered the address "
+"you registered with, and check your spam folder."
+msgstr ""
+"Если вы не получили письмо, пожалуйста проверьте папку спама или "
+"удостоверьтесь, что введенная почта является той, которая использовалась при "
+"регистрации."
+
+msgid "Create an account"
+msgstr "Создать учётную запись"
+
+msgid "Create"
+msgstr "Создать"
+
+msgid "Profile activation"
+msgstr "Активация профиля"
+
+msgid "Your username"
+msgstr "Ваше имя пользователя"
+
+msgid ""
+"You are registered. To activate the account, follow the link sent to the "
+"mail."
+msgstr ""
+"Вы зарегистрированы. Для активации учётной записи, перейдите по ссылке из "
+"письма."
+
+msgid "You are successfully registered!"
+msgstr "Вы успешно зарегистрированы!"
+
+msgid "You have successfully activated your account!"
+msgstr "Вы успешно активировали свою учётную запись!"
+
+msgid "A new activation code has been sent to your email address."
+msgstr "Новый код активации отправлен на вашу электронную почту."
+
+msgid "Profile data has been successfully updated."
+msgstr "Данные профиля были успешно обновлены."
+
+msgid "To complete the change of email address, click on the link sent to it."
+msgstr ""
+"Для завершения изменения электронной почты, перейдите по ссылке из письма, "
+"которая отправлена на него."
+
+msgid "Email successfully changed."
+msgstr "Почта успешно изменена."
+
+msgid "You have successfully changed your email!"
+msgstr "Вы успешно изменили свою почту!"
+
+msgid "Your username has been successfully sent to your email."
+msgstr ""
+"Ваше имя пользователя успешно отправлено на ваш адрес электронной почты."
+
+msgid "English"
+msgstr "Английский"
+
+msgid "Ukrainian"
+msgstr "Украинский"
+
+msgid "Russian"
+msgstr "Русский"
+
+msgid "Simplified Chinese"
+msgstr "Китайский (упрощённый)"
+
+msgid "Home"
+msgstr ""
+
+msgid "Log out"
+msgstr "Выйти"
+
+msgid "Change language"
+msgstr "Изменить язык"
+
+msgid "Select the language"
+msgstr "Выбрать язык"
+
+msgid "Your username is"
+msgstr "Ваше имя пользователя"
+
+msgid "You are a guest."
+msgstr "Вы гость."
